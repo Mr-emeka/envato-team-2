@@ -1,7 +1,7 @@
 /*################  Login Page ##############################*/
 .left-side-bg {
     background: linear-gradient(135deg,
-            rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('./images/login/login-bg.png');
+            rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/images/login/login-bg.png);
     min-height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
